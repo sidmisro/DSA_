@@ -1,3 +1,12 @@
+/*Approach: 
+-Use a stack to keep track of the surviving asteroids.
+-For each asteroid :
+    -If it is moving right, push it into the stack.
+    -If it is moving left, resolve collisions with right-moving asteroids on the stack.
+    -Continue the collisions until one asteroid survives or both are destroyed.
+Time complexity: O(n).
+Space complexity: O(n).
+*/
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
