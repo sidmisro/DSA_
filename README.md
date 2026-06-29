@@ -18,6 +18,7 @@ The repository is updated regularly as I solve new problems.
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/sidmisro/DSA_/tree/master/0735-asteroid-collision) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sidmisro/DSA_/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Stack
 |  |
 | ------- |
@@ -31,6 +32,7 @@ The repository is updated regularly as I solve new problems.
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sidmisro/DSA_/tree/master/0402-remove-k-digits) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/sidmisro/DSA_/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Greedy
 |  |
 | ------- |
